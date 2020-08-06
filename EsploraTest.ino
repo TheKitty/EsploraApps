@@ -3,7 +3,7 @@
 
   This sketch allows to test the Esplora's peripherals 
   
-  Created on January 18, 2013  Mike Barela http://21stdigitalhome.blogspot.com/
+  Created on January 18, 2013  Anne Barela http://21stdigitalhome.blogspot.com/
   Please keep attribution in derivative works, use in noncommercial and commercial
   products is granted
 Per Adafruit MIT license, following comments included
