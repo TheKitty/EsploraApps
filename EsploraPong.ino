@@ -3,7 +3,7 @@
 //        09/26/2012
 //  Email: svdave12@gmail.com
 //
-// Ported to Arduino Esplora 2/3/2013 with permission by Mike Barela http://21stdigitalhome.blogspot.com/
+// Ported to Arduino Esplora 2/3/201,3 with permission, by Anne Barela http://21stdigitalhome.blogspot.com/
 // Free to use with attribution to David Rutherford
 
 #include <Adafruit_ST7735.h>
@@ -52,7 +52,7 @@ void setup(){
   tft.println("   By: David Rutherford");
   tft.println("");
   tft.println("   Esplora port by:");
-  tft.println("           Mike Barela");
+  tft.println("           Anne Barela");
   tft.setTextColor(ST7735_WHITE, ST7735_BLACK);
   tft.println(" ");
   tft.println(" Press Switch 4 To Start");
