@@ -15,7 +15,7 @@ EsploraPong - also requires the Adafruit 1.8" LCD display on the expansion heade
 EsploraTest - also requires the Adafruit 1.8" LCD display on the expansion header. Interactively test buttons,
               sensors, potentiometer, joystick, mic, buzzer, and setting of the RGB LED.  Interactive menus.
 
-For projects, see http://21stdigitalhome.blogspot.com/     Mike Barela
+For projects, see http://21stdigitalhome.blogspot.com/     Anne Barela
 
 See programs for attributions.  You may use the code, please attribute appropriately.
 
