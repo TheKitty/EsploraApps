@@ -1,6 +1,6 @@
 // Arduino Esplora Level Bounce Game
 //
-// Mike Barela, Januray 12, 2012
+// Anne Barela, Januray 12, 2012
 //
 // Mod of game by R0D0T posted on http://r0d0t.tumblr.com/post/29641975900 and 
 //    Hackaday http://hackaday.com/2012/10/01/fantastic-programming-makes-this-arduino-gaming-device-something-special/ 
